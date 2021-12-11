@@ -6,13 +6,13 @@
 
 ## step3 - algorithm
 #### 1. 김서방찾기 - https://programmers.co.kr/learn/courses/30/lessons/12919
-> Algorithm01 :
+> Algorithm01 : https://github.com/KimDaEun1031/prep-guide/blob/master/step3/Algorithm01.js
 
 #### 2. 가운데 글자 가져오기 - https://programmers.co.kr/learn/courses/30/lessons/12903
-> Algorithm02 :
+> Algorithm02 : https://github.com/KimDaEun1031/prep-guide/blob/master/step3/Algorithm02.js
 
 #### 3. 수박수박수박수 - https://programmers.co.kr/learn/courses/30/lessons/12922
-> Algorithm03 : 
+> Algorithm03 : https://github.com/KimDaEun1031/prep-guide/blob/master/step3/Algorithm03.js
 
 ## step4 - project
 #### Background Changer - https://github.com/KimDaEun1031/javascript-project/blob/master/background-changer.html
